@@ -102,7 +102,7 @@
    </td>
    <td>Fungible Token Support
    </td>
-   <td>Fungible tokens displayers
+   <td>Fungible tokens displayed
    </td>
    <td>✅
    </td>
