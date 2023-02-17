@@ -48,6 +48,9 @@
    </td>
    <td><strong>Salmon Wallet</strong>
    </td>
+   <td><strong>Dojo Wallet</strong>
+   </td>
+    
   </tr>
   <tr>
    <td>Core
