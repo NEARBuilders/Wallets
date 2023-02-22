@@ -71,7 +71,7 @@
    </td>
    <td>✅
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -119,7 +119,7 @@
    </td>
    <td>✅
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -167,7 +167,7 @@
    </td>
    <td>❌
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -215,7 +215,7 @@
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -311,7 +311,7 @@
    </td>
    <td>❌
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -360,7 +360,7 @@ Which blockchain(s) other than NEAR does this wallet support
    </td>
    <td>
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -408,7 +408,7 @@ Which blockchain(s) other than NEAR does this wallet support
    </td>
    <td>✅
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -505,7 +505,7 @@ Which blockchain(s) other than NEAR does this wallet support
    </td>
    <td>?
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -553,7 +553,7 @@ Which blockchain(s) other than NEAR does this wallet support
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -650,7 +650,7 @@ Google, twitter, and other social media login support
    </td>
    <td>❌
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -698,7 +698,7 @@ Google, twitter, and other social media login support
    </td>
    <td>✅
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -746,7 +746,7 @@ Google, twitter, and other social media login support
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -794,7 +794,7 @@ Google, twitter, and other social media login support
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -988,7 +988,7 @@ An ecosystem / dApp aggregator built directly inside the wallet
    </td>
    <td>
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -1037,7 +1037,7 @@ Ability to lock wallet
    </td>
    <td>
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -1231,7 +1231,7 @@ All Assets in the wallets value in USD aggregated and displayed as overall USD w
    </td>
    <td>🌕
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -1327,7 +1327,7 @@ All Assets in the wallets value in USD aggregated and displayed as overall USD w
    </td>
    <td>🌕
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -1472,7 +1472,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -1520,7 +1520,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -1568,7 +1568,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -1760,7 +1760,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -1952,7 +1952,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -2000,7 +2000,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>🌕
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -2048,7 +2048,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
@@ -2192,7 +2192,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -2240,7 +2240,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>❌
    </td>
-   <td>
+   <td>❌
    </td>
    <td>
    </td>
@@ -2288,7 +2288,7 @@ Place and cancel limit orders for swaps
    </td>
    <td>✅
    </td>
-   <td>
+   <td>✅
    </td>
    <td>
    </td>
