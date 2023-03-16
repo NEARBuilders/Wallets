@@ -1,4 +1,5 @@
 # NEAR Wallets Feature List
+https://docs.google.com/spreadsheets/d/1Q9ZEeWpFHgcPthSCvzyiVcaKdBIcdS3r96v48OYsDBM/edit?usp=sharing Editing on here for now then will port back over
 
 <table>
   <tr>
